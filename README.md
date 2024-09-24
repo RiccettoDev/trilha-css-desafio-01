@@ -1,5 +1,15 @@
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
+## Imagem do projeto finalizado
+
+- 💻 Visite meu portifólio: <a href="https://riccettodev.github.io/trilha-css-desafio-01/" target="_blanck">https://portfolio-ten-lime-67.vercel.app/</a>;
+
+![landing page](./assets/readme/landing-page.png)
+
+# // -------------------------------------------- //
+
+# Instruções de realização do projeto:
+
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
 
