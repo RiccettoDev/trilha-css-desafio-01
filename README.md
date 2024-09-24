@@ -2,7 +2,7 @@
 
 ## Imagem do projeto finalizado
 
-- 💻 Visite meu portifólio: <a href="https://riccettodev.github.io/trilha-css-desafio-01/" target="_blanck">https://portfolio-ten-lime-67.vercel.app/</a>;
+- 💻 Visite o projeto: <a href="https://riccettodev.github.io/trilha-css-desafio-01/" target="_blanck">https://portfolio-ten-lime-67.vercel.app</a>;
 
 ![landing page](./assets/readme/landing-page.png)
 
